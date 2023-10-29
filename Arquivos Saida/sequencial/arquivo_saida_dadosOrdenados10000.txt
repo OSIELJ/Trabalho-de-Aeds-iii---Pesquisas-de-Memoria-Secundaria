@@ -1,0 +1,30 @@
+Chave (007769) encontrada na coleção. Tempo de busca: 0.000253518 segundos. Número de comparações: 7769
+Chave (001762) encontrada na coleção. Tempo de busca: 0.000008738 segundos. Número de comparações: 1762
+Chave (004300) encontrada na coleção. Tempo de busca: 0.000021074 segundos. Número de comparações: 4300
+Chave (006003) encontrada na coleção. Tempo de busca: 0.000028900 segundos. Número de comparações: 6003
+Chave (003304) encontrada na coleção. Tempo de busca: 0.000015853 segundos. Número de comparações: 3304
+Chave (008765) encontrada na coleção. Tempo de busca: 0.000042930 segundos. Número de comparações: 8765
+Chave (002947) encontrada na coleção. Tempo de busca: 0.000014363 segundos. Número de comparações: 2947
+Chave (001571) encontrada na coleção. Tempo de busca: 0.000007592 segundos. Número de comparações: 1571
+Chave (005081) encontrada na coleção. Tempo de busca: 0.000023209 segundos. Número de comparações: 5081
+Chave (004545) encontrada na coleção. Tempo de busca: 0.000019114 segundos. Número de comparações: 4545
+Chave (000381) encontrada na coleção. Tempo de busca: 0.000001642 segundos. Número de comparações: 381
+Chave (008852) encontrada na coleção. Tempo de busca: 0.000039251 segundos. Número de comparações: 8852
+Chave (006190) encontrada na coleção. Tempo de busca: 0.000029969 segundos. Número de comparações: 6190
+Chave (007970) encontrada na coleção. Tempo de busca: 0.000057498 segundos. Número de comparações: 7970
+Chave (002191) encontrada na coleção. Tempo de busca: 0.000010554 segundos. Número de comparações: 2191
+Chave (014179) não encontrada na coleção. Tempo de busca: 0.000156663 segundos. Número de comparações: 10000
+Chave (018399) não encontrada na coleção. Tempo de busca: 0.000062919 segundos. Número de comparações: 10000
+Chave (014149) não encontrada na coleção. Tempo de busca: 0.000054484 segundos. Número de comparações: 10000
+Chave (017833) não encontrada na coleção. Tempo de busca: 0.000047502 segundos. Número de comparações: 10000
+Chave (014271) não encontrada na coleção. Tempo de busca: 0.000045370 segundos. Número de comparações: 10000
+Chave (015813) não encontrada na coleção. Tempo de busca: 0.000048679 segundos. Número de comparações: 10000
+Chave (010469) não encontrada na coleção. Tempo de busca: 0.000048121 segundos. Número de comparações: 10000
+Chave (014792) não encontrada na coleção. Tempo de busca: 0.000048608 segundos. Número de comparações: 10000
+Chave (016626) não encontrada na coleção. Tempo de busca: 0.000048462 segundos. Número de comparações: 10000
+Chave (014431) não encontrada na coleção. Tempo de busca: 0.000047938 segundos. Número de comparações: 10000
+Chave (013922) não encontrada na coleção. Tempo de busca: 0.000045672 segundos. Número de comparações: 10000
+Chave (018919) não encontrada na coleção. Tempo de busca: 0.000077460 segundos. Número de comparações: 10000
+Chave (019839) não encontrada na coleção. Tempo de busca: 0.000046911 segundos. Número de comparações: 10000
+Chave (015857) não encontrada na coleção. Tempo de busca: 0.000048341 segundos. Número de comparações: 10000
+Chave (000000) não encontrada na coleção. Tempo de busca: 0.000058519 segundos. Número de comparações: 10000
