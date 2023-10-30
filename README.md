@@ -106,5 +106,3 @@ O código de Pesquisa Sequencial realiza buscas sequenciais em registros utiliza
 - Fernando Maia - maia.fernando@ufvjm.edu.br
 - Osiel Junior Martins Bicalho - osiel.junior@ufvjm.edu.br
 - Raul Rodrigues - santos.raul@ufvjm.edu.br
-
-Agora o README inclui informações sobre o código de Pesquisa Sequencial no projeto. Certifique-se de compilar e executar o código correspondente para obter resultados de busca sequencial.
