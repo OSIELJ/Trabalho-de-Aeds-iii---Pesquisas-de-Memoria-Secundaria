@@ -72,8 +72,8 @@ Os resultados das buscas são registrados em arquivos de saída correspondentes 
 
 ## Autores
 
-- Daniel Rodrigues Pereira
-- Patricia Helen Ribeiro
-- Fernando Maia
-- Osiel Junior Bicalho
-- Raul Rodrigues
+- Daniel Rodrigues Pereira - daniel.pereira@ufvjm.edu.br
+- Patricia Helen Ribeiro - patricia.helen@ufvjm.edu.br
+- Fernando Maia - maia.fernando@ufvjm.edu.br
+- Osiel Junior Martins Bicalho - osiel.junior@ufvjm.edu.br
+- Raul Rodrigues - santos.raul@ufvjm.edu.br
