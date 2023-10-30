@@ -75,5 +75,5 @@ Os resultados das buscas são registrados em arquivos de saída correspondentes 
 - Daniel Rodrigues Pereira
 - Patricia Helen Ribeiro
 - Fernando Maia
-- Osiel Junior 
+- Osiel Junior Bicalho
 - Raul Rodrigues
