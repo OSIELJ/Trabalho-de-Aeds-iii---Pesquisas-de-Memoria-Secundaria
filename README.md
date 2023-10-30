@@ -69,3 +69,11 @@ O código lê um arquivo de dados ordenados, insere os registros em uma árvore 
 # Observações Gerais
 Certifique-se de que todos os arquivos de entrada necessários estejam presentes no diretório especificado no código.
 Os resultados das buscas são registrados em arquivos de saída correspondentes para posterior análise.
+
+## Autores
+
+- Daniel Rodrigues Pereira
+- Patricia Helen Ribeiro
+- Fernando Maia
+- Osiel Junior 
+- Raul Rodrigues
